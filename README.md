@@ -10,4 +10,8 @@
 # pip install pip
 # pip install --update pip
 # pip install mechanize
-# 
+# git clone https://github.com/HRCXXII/jaringan
+# cd Jaringan
+# chmod +x jaringan.sh
+# sh jaringan.sh
+# Terima - Kasih : By Mr.XXII
